@@ -10,6 +10,14 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+3주차/[Ll]ibrary/
+3주차/[Tt]emp/
+3주차/[Oo]bj/
+3주차/[Bb]uild/
+3주차/[Bb]uilds/
+3주차/[Ll]ogs/
+3주차/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
