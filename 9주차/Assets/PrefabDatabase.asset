@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01931b4c655bcc449b6adf2a1a48807c, type: 3}
+  m_Name: PrefabDatabase
+  m_EditorClassIdentifier: 
+  Prefabs:
+  - prefabName: cube
+    prefabGameObject: {fileID: 3966435517610613, guid: 5c40003c259c99f4c9179323a093c478, type: 3}
+  - prefabName: sphere
+    prefabGameObject: {fileID: 3945486325658653607, guid: ab745dfbb89e65d418db00c9ee3d27f3, type: 3}
