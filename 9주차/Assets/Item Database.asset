@@ -13,15 +13,23 @@ MonoBehaviour:
   m_Name: Item Database
   m_EditorClassIdentifier: 
   ItemDatas:
-  - itemName: Sword
+  - itemName: Sword1
     itemLevel: 1
     itemDefaultDur: 0
     itemThumbnail: {fileID: 0}
   - itemName: Sword2
-    itemLevel: 2
+    itemLevel: 2120
     itemDefaultDur: 0
     itemThumbnail: {fileID: 0}
   - itemName: Sword3
     itemLevel: 3
+    itemDefaultDur: 0
+    itemThumbnail: {fileID: 0}
+  - itemName: Bow
+    itemLevel: 10
+    itemDefaultDur: 0
+    itemThumbnail: {fileID: 0}
+  - itemName: Gun
+    itemLevel: 2
     itemDefaultDur: 0
     itemThumbnail: {fileID: 0}

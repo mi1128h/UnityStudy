@@ -17,3 +17,11 @@ public class ItemData
     public float itemDefaultDur;
     public Sprite itemThumbnail;
 }
+
+[Serializable]
+public class SwordData
+{
+    public string itemName;
+    public int itemLevel;
+    public float attackPower;
+}
